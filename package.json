@@ -1,0 +1,26 @@
+{
+  "name": "plane-gtk-color",
+  "version": "1.0.0",
+  "description": "Color edit for gtk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfpaisa/plane-gtk-color.git"
+  },
+  "keywords": [
+    "gtk",
+    "color",
+    "theme",
+    "plane",
+    "theme"
+  ],
+  "author": "wfpaisa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wfpaisa/plane-gtk-color/issues"
+  },
+  "homepage": "https://github.com/wfpaisa/plane-gtk-color#readme"
+}
