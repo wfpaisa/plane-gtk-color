@@ -1,0 +1,1 @@
+# Plane GTK color
